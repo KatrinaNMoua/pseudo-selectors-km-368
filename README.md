@@ -1,2 +1,11 @@
 # pseudo-selectors-km-368
-Free Code Camp's CSS Psuedo Selector 
+Deploying Free Code Camp's css psuedo selector using Netlify.
+
+**Tools Used**
+
+* Free Code Camp
+* codepen.io
+* GitHub
+* repositories
+* codespaces
+* Netlify
